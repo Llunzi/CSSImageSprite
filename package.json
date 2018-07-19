@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "postcss": "^7.0.0",
+    "postcss-sprites": "^4.2.1"
+  }
+}
