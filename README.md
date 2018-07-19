@@ -5,7 +5,7 @@
 # CSS Sprites原理
 * CSS Sprites其实就是把网页中一些背景图片整合到一张图片文件中，
 * 再利用CSS的”background-image”，“background- repeat”，“background-position”的组合进行背景定位，background-position可以用数字精确的定位出背景图片的位置。
-* CODE
+
 ```javascript
 .comment {
     background-image: url(images/sprite.png);
