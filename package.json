@@ -2,8 +2,8 @@
   "dependencies": {
     "postcss": "^7.0.0",
     "postcss-sprites": "^4.2.1"
-  }
+  },
     "scripts": {
     "start": "node CSSSprite.js"
-  },
+  }
 }
